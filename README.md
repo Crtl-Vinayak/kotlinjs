@@ -1,2 +1,4 @@
-# kotlinjs
-druk op de login tekst, de home tekst gaat verdwijnen en verschijnen.
+kotlinjs
+===============
+
+een website, waar je op de login tekst klikt, zodat de home tekst verdwijnt en verschijnt.
